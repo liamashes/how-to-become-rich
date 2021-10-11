@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.itranswarp.rich","c":"Millionaire","l":"getName()"},{"p":"com.itranswarp.rich","c":"Millionaire","l":"howToBecomeRich()"},{"p":"com.itranswarp.rich","c":"Millionaire","l":"Millionaire()","u":"%3Cinit%3E()"},{"p":"com.itranswarp.rich","c":"Millionaire","l":"Millionaire(String)","u":"%3Cinit%3E(java.lang.String)"}];updateSearchResults();
