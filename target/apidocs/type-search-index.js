@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.itranswarp.rich","l":"Millionaire"}];updateSearchResults();
